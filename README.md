@@ -138,10 +138,7 @@ StreamFlix is configured for 1-click deployment on **Vercel**:
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/rudradc/StreamFlix/issues).
+https://stream-flix-lilac.vercel.app/
 
 ---
 
